@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.db
+*.ps1
+.git/
+.idea/
